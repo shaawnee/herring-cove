@@ -6,14 +6,14 @@ body
   color:#2c3e50;
   background-color:#f0f0f0;
   width:100%;
-  border-top:solid #d90006;
+  border-top:solid #8F7F99;
   border-width:4px
 }
 
 h1,h2,h3,h4,h5,h6
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
-  color:#d90006
+  color:#403B3E
 }
 
 h1
@@ -98,7 +98,7 @@ p
   overflow-y:auto;
   z-index:1000;
   margin-top:-4px;
-  border-top:solid #d90006;
+  border-top:solid #8F7F99;
   transition:all .4s ease 0;
   border-width:4px
 }
@@ -152,7 +152,7 @@ p
 {
   font-size:15px;
   font-weight:100;
-  color:#5d5f67
+  color:#8F7F99
 }
 
 .nav-toggle {
@@ -269,7 +269,7 @@ pre
   font-size:3em;
   font-family:"Helvetica Neue", helvetica, "PT Sans", sans-serif;
   font-weight:bolder;
-  color:#E3A7E8;
+  color:#8F7F99;
   text-align:center;
   padding-top:20%
 }
@@ -292,7 +292,7 @@ pre
 {
   font-size:3em;
   font-weight:700;
-  color:#d90006;
+  color:#8F7F99;
   line-height:130%
 }
 
@@ -306,7 +306,7 @@ pre
 
 #welcome-greeting > h2
 {
-  font-size:2em;
+  font-size:1.3em;
   font-weight:100;
   color:#2e2e2e;
   padding-top:0;
@@ -370,7 +370,7 @@ pre
 {
   font-size:35px;
   font-weight:700;
-  color:#d90006;
+  color:#8F7F99;
   padding-top:15px
 }
 
